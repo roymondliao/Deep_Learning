@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+*.ipynb
+.ipynb_checkpoints/
+.Rproj.user
+.Rhistory
+.RData
